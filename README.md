@@ -1,1 +1,1 @@
-# Project
+Word Scrabble is a game played between 2 to 4 payers. In this game, 7 letters are given to each player, and they have to use those letters to make a meaningful word. Each letter has its own points and hence the player's score is an addition to all points.
